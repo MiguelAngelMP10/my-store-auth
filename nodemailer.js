@@ -10,7 +10,7 @@ async function sendMail() {
     secure: true,
     auth: {
       user: 'mmunozpozos@gmail.com',
-      pass: 'pecfkkbzzttqciji'
+      pass: '-'
     }
   });
 
